@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Not part of this activity
+HospitalSystem/
+*.pdf
+*.zip
